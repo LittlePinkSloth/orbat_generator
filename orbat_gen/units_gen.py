@@ -2,6 +2,7 @@ from .classes import *
 from pandas import read_excel
 from .config import EquipConfig, UnitConfig
 
+
 def init_equipment_dict() -> (dict, set):
     """
     Initialize all the Equipments from the csv file. If one equipment is missing, please add it in the csv file.

@@ -18,6 +18,7 @@
 │   ├── classes.py            # Defines Unit and EqType classes
 │   ├── units_gen.py          # Builds Unit objects from Excel
 │   └── powerpoint_gen.py     # Handles PowerPoint slide generation
+├── tests/                    # Contains all the test files
 ```
 
 ## ▶️ Run the app

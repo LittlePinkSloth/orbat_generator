@@ -33,7 +33,7 @@ python main.py
 - `orbat_gen/` — Core logic for units, equipment, and PowerPoint rendering.
 - `data/` — CSV files containing your structured unit info.
 - `img/` — Visual symbols used in PowerPoint generation.
-
+- `tests/` — Testing directory
 ---
 
 ## 📘 More Info

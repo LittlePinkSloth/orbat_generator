@@ -4,7 +4,7 @@ from datetime import datetime
 def main() :
     start = datetime.now()
     source_file = "./datas/datas.xls"
-    path_prs = "./results/presFull.pptx"
+    path_prs = "./results/presCDT.pptx"
 
     dic_units = gen_units(source_file)
     categ = ['UAV', 'MBT', 'IFV', 'AD', 'FA', 'MRL']
