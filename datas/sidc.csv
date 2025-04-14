@@ -1,0 +1,67 @@
+unit_type;unit_common;unit_SIDC
+unit;UNK;SHGPU-----
+unit combat;CBT;SHGPUC----
+air defence;AD;SHGPUCD---
+air def missile;ADM;SHGPUCDM--
+unit combat armor;TK;SHGPUCA---
+armor wheeled;TKW;SHGPUCAW--
+anti armor;AT;SHGPUCAA--
+helico (army aviation rotary);AVN;SHGPUCVR--
+helico attack;AH;SHGPUCVRA-
+helico scoot;RH;SHGPUCVRS-
+helico utilitaire;UH;SHGPUCVRU-
+uav;UAV;SHGPUCVU--
+inf moto;MOT;SHGPUCIM--
+inf mec;MEC;SHGPUCIZ--
+inf airborne;ABN;SHGPUCIA--
+inf air assault;AST;SHGPUCIS--
+nav inf;NAV;SHGPUCIN--
+engineer;ENG;SHGPUCE---
+field art;ART;SHGPUCF---
+art self prop;SPA;SHGPUCFHE-
+mrl;MRL;SHGPUCFRM-
+target aq;TA;SHGPUCFT--
+ta recce;TAREC;SHGPUCFTCD
+recce;REC;SHGPUCR---
+arm recce;AREC;SHGPUCRVA-
+missile ss;SSM;SHGPUCM---
+cbrn;CBRN;SHGPUUA---
+mil int;MI;SHGPUUM---
+ew;EW;SHGPUUMSE-
+signal;SIG;SHGPUUS---
+css;CSS;SHGPUS----
+med;MED;SHGPUSM---
+supply;SUP;SHGPUSS---
+transportation;TPT;SHGPUST---
+maint;MAINT;SHGPUSX---
+mot;MOT;SHGPUCIM--
+moto;MOT;SHGPUCIM--
+mec;MEC;SHGPUCIZ--
+mech;MEC;SHGPUCIZ--
+mecha;MEC;SHGPUCIZ--
+meca;MEC;SHGPUCIZ--
+ab;ABN;SHGPUCIA--
+ aa;AST;SHGPUCIS--
+sf;SOF;SHGUCSF---
+sof;SOF;SHGUCSF---
+c2;C2;SHGUCSCC--
+c3;C2;SHGUCSCC--
+avn;AVN;SHGPUCVR--
+ah;AH;SHGPUCVRA-
+rh;RH;SHGPUCVRS-
+uh;UH;SHGPUCVRU-
+mrls;MRL;SHGPUCFRM-
+msl;SSM;SHGPUCM---
+log;CSS;SHGPUS----
+th;UH;SHGPUCVRU-
+art;ART;SHGPUCF---
+tk;TK;SHGPUCA---
+ ad;AD;SHGPUCD---
+eng;ENG;SHGPUCE---
+military intelligence;MI;SHGPUUM---
+ mi;MI;SHGPUUM---
+sig;SIG;SHGPUUS---
+ at;AT;SHGPUCAA--
+tank;TK;SHGPUCA---
+char;TK;SHGPUCA---
+infantry;INF;SHGPUCI---
